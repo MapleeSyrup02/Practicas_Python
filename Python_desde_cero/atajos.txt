@@ -1,0 +1,25 @@
+
+# CONTROL K + CONTOL C [Permite seleccionar todo y comentarlo]
+
+# ALT + SHIFT + ABAJO [Permite pegar los que copiaste de forma rápida]
+
+# ALT + SHIFT + CLICK ARRASTRAR [Permite seleccionar varias lineas al mismo tiempo y ediatarlas]
+
+# Si apretas F2 arriba de una variable, te deja cambiar su nombre y en todos los lugares doonde fue utilizada
+
+# Windos + [.] permite ingresar emojis
+
+
+
+
+github
+
+git init, crea un repositorio de los contenidos seleccionados (sube una carpeta y su contenido a la nube)
+
+git add . = agrega todos los archivos en esta carpeta
+
+git commit -m "Mi Proyecto" = es una nota que se crea para saber que es lo que agregas/subís
+
+si quiero guardar una carpeta dentro de otra dentro de otra hay que hacer
+git add Carpeta_Comida/Carpeta_Saludable/Carpeta_Fruta/Sandias.txt
+esto haría que solo el archivo txt sea guardado y para eso primero hay que indicar que ruta tiene que seguir para guárdalo.
