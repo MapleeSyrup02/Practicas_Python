@@ -3,11 +3,11 @@
 
 # ALT + SHIFT + ABAJO [Permite pegar los que copiaste de forma rápida]
 
-# ALT + SHIFT + CLICK ARRASTRAR [Permite seleccionar varias lineas al mismo tiempo y ediatarlas]
+# ALT + SHIFT + CLICK ARRASTRAR [Permite seleccionar varias lineas al mismo tiempo y editarlas]
 
-# Si apretas F2 arriba de una variable, te deja cambiar su nombre y en todos los lugares doonde fue utilizada
+# Si apretas F2 arriba de una variable, te deja cambiar su nombre y en todos los lugares donde fue utilizada
 
-# Windos + [.] permite ingresar emojis
+# Windows + [.] permite ingresar emojis
 
 
 

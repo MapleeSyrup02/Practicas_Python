@@ -1,0 +1,14 @@
+
+# Ejemplo 1: Insertar una variable dentro de un string con f-string
+nombre = input("¿Cómo te llamás? ")
+mensaje = f"Hola, {nombre}, ¡bienvenido al programa!"
+print(mensaje)
+
+# Ejemplo 2: Usar una variable dentro de otro input con f-string
+nombre = input("¿Cómo te llamás? ")
+respuesta = input(f"{nombre}, ¿cómo te sentís hoy? ")
+print(f"Me alegra saber que te sentís {respuesta}, {nombre}.")
+
+# Ejemplo 3: Otro input usando una variable anterior
+edad = input(f"{nombre}, ¿cuántos años tenés? ")
+print(f"Tenés {edad} años. ¡Gracias por responder, {nombre}!")
