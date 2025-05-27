@@ -1,0 +1,36 @@
+
+=======================================================================
+#                       Practica Algoritmos
+#       El usuario quiere saber cuantas letras tiene una palabra
+=======================================================================
+
+Algoritmo:
+1. Solicitar al usuario que ingrese una palabra
+2. Comentar la cantidad de letras ingresadas
+3. Mostraremos la cantidad de letras que tiene la palabra
+
+
+Pseudocode:
+Inicio del programa
+    //Paso 1: solicitar la entrada al usuario
+    Mostrar mensaje (Por favor ingrese una palabra: )
+    definir variable palabra_ingresada con la lectura de la entrada
+
+    //Paso 2: Contar la cantidad de letras
+    cantidad_letras = longitud de palabra_ingresada
+
+    //Paso 3: Mostrar el resultado
+    Mostrar mensaje la palabra_ingresada que tiene cantidad_letras
+
+Fin del programa
+
+=======================================================================
+
+Luego seguiría el diagrama de flujo (Draw.io)
+
+=======================================================================
+
+Código:
+palabra = input("Hola usuario, por favor ingresa la palabra: ")
+cantidad = len(palabra)
+print(f"El numero de letras en su palabra son {cantidad}")

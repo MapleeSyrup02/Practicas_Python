@@ -1,0 +1,12 @@
+
+
+# Algoritmo:
+# 1. Solicitar al usuario que ingrese una palabra
+# 2. Comentar la cantidad de letras ingresadas
+# 3. Mostraremos la cantidad de letras que tiene la palabra
+
+palabra = input("Hola usuario, por favor ingresa la palabra: ")
+
+cantidad = len(palabra)
+
+print(f"El numero de letras en su palabra son {cantidad}")
