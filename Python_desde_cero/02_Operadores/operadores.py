@@ -2,16 +2,16 @@
 
 # Operadores
 
-# Son simbolos o conjuntos de simbolos que realizan una accion especifica en uno o mas operadores
+# Son símbolos o conjuntos de símbolos que realizan una acción especifica en uno o mas operadores
 
 # Tipos de operadores
 
-#> Ariteticos
-#> De comparacion
-#> Logicos
-#> De Asignacion
-#> De Pertenecia
-#> De Identidas
+#> Aritméticos
+#> De comparación
+#> Lógicos
+#> De Asignación
+#> De Pertenecía
+#> De Identidad
 
 
 
@@ -20,26 +20,23 @@
 #=================
 
 # [/] Dividir
-# [//] para dividir entero (float divicion)
+# [//] para dividir entero (float division)
 # [%] resto o modulo (modulus)
 
 
 
-from xmlrpc.client import boolean
-
-
 a = 8
 b = 4
-c = a // b #[Dara las veces que se usa b para resolver la divicion]
-d = a % b # [Dara el resto de la divicion]
+c = a // b #[Dará las veces que se usa b para resolver la división]
+d = a % b # [Dará el resto de la division]
 
-print(c) # Divicion enteros
+print(c) # Division enteros
 print(d) # el resto
 
 
 
 #==================
-# Operadores Asignacion
+# Operadores Asignación
 #==================
 
 # [=]
@@ -61,11 +58,11 @@ x += sumatorio #19
 x += sumatorio #22
 
 #==================
-# Operadores Comparacion
+# Operadores Comparación
 #==================
 
 # No es lo mismo un [=] que un [==]
-# El [!] negacion [!=]
+# El [!] negación [!=]
 # [<][>] Mayor igual/ [<=][>=] Mayor o Igual
 
 
@@ -76,12 +73,12 @@ print(x1 != y1) #[Compara igualdad]
 
 
 #==================
-# Operadores Logicos
+# Operadores Lógicos
 #==================
 
 # [and] Da verdadero solo cuando ambas afirmaciones lo son
 # [or] Da verdadero si alguna es verdadero
-# [not] Dara el opuesto de el valor
+# [not] Dará el opuesto de el valor
 
 x2 = 5
 

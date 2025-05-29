@@ -1,0 +1,26 @@
+
+===========================================================================
+ "El usuario quiere saber cual es el area de un circulo teniendo el radio"   
+===========================================================================
+
+Algoritmo:
+1. Solicitar al usuario que ingrese el radio del circulo
+2. Calcular el area del circulo utilizando la formula area = pi por radio al cuadrado
+3. Mostrar al usuario el area calculada
+
+===========================================================================
+
+Psudocodigo:
+
+inicio
+    //Paso 1: Solicitar al usuario que ingrese el radio del circulo
+    mostrar mensaje: por favor ingresa el radio del circulo
+    leer el dato ingresado y asignarlo a la variable radio
+
+    Paso 2: Calcular la formula 
+
+    paso 3: Mostrar al usuario el area
+
+FIN
+
+===========================================================================
